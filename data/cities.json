@@ -35,6 +35,102 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Guermantes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-05-19T20:30:30.682Z",
+      "notes": "asc",
+      "position": {
+        "lat": "48.85261546454065",
+        "lng": "2.7026367187500004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Guermantes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-05-19T20:30:30.682Z",
+      "notes": "asc",
+      "position": {
+        "lat": "48.85261546454065",
+        "lng": "2.7026367187500004"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Guermantes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-05-19T20:30:30.682Z",
+      "notes": "asc",
+      "position": {
+        "lat": "48.85261546454065",
+        "lng": "2.7026367187500004"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Brunoy",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-05-19T20:30:30.682Z",
+      "notes": "asc",
+      "position": {
+        "lat": "48.707985665531545",
+        "lng": "2.5268554687500004"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Barcabo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-05-19T20:33:48.245Z",
+      "notes": "xf",
+      "position": {
+        "lat": "42.2954227900777",
+        "lng": "0.087890625"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Balan",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2026-05-19T20:39:04.827Z",
+      "notes": "",
+      "position": {
+        "lat": "45.835432354864565",
+        "lng": "5.097656250000001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Hohenwart",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2026-05-19T20:40:02.788Z",
+      "notes": "",
+      "position": {
+        "lat": "48.58345818227796",
+        "lng": "11.425781250000002"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Vadstena",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2026-05-19T20:42:01.816Z",
+      "notes": "",
+      "position": {
+        "lat": "58.40609113950004",
+        "lng": "14.765625000000002"
+      },
+      "id": 98443205
     }
   ]
 }
