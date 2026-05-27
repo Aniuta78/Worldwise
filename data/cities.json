@@ -143,6 +143,54 @@
         "lng": "14.871695625001584"
       },
       "id": 98443206
+    },
+    {
+      "cityName": "Boston",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2026-05-21T02:40:47.079Z",
+      "notes": "",
+      "position": {
+        "lat": "42.34078269109013",
+        "lng": "-71.19061528327327"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Foradada del Toscar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-05-26T18:08:38.344Z",
+      "notes": "",
+      "position": {
+        "lat": "42.49008144115331",
+        "lng": "0.3693812946445974"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Molina de Aragon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-05-26T18:09:22.279Z",
+      "notes": "",
+      "position": {
+        "lat": "40.816275706186424",
+        "lng": "-1.8907019531245586"
+      },
+      "id": 98443209
+    },
+    {
+      "cityName": "Villahermosa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2026-05-26T18:09:24.974Z",
+      "notes": "",
+      "position": {
+        "lat": "38.72346019301323",
+        "lng": "-2.7271077120525176"
+      },
+      "id": 98443210
     }
   ]
 }
