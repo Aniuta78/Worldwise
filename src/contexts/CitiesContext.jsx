@@ -6,7 +6,7 @@ import {
   useCallback,
 } from "react";
 
-const BASE_URL = "http://localhost:8000";
+const BASE_URL = "https://aniuta78.github.io/Worldwise/";
 
 const CitiesContext = createContext();
 
