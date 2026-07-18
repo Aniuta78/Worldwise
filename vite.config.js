@@ -5,6 +5,11 @@ import eslint from "vite-plugin-eslint";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), eslint()],
+  base: "/Worldwise/",
+  scripts: {
+    predeploy: "npm run build",
+    deploy: "gh-pages -d dist",
+  },
   // server: {
   //   hmr: {
   //     overlay: false,
